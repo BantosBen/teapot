@@ -1,0 +1,58 @@
+{
+  "teas": [
+    {
+      "name": "Genmaicha",
+      "type": "Green Tea",
+      "origin": "Japan",
+      "steep-time": 180000,
+      "description": "Green tea with a strong roasted flavor",
+      "ingredients": "Green Bancha leaves, brown rice",
+      "caffeine-level": "low"
+    },
+    {
+      "name": "Earl Grey",
+      "type": "Black Tea",
+      "origin": "China/United Kingdom",
+      "steep-time": 240000,
+      "description": "Black tea leaves dried with a Bergamot for a citrus flavor",
+      "ingredients": "Black tea leaves, Bergamot",
+      "caffeine-level": "high"
+    },
+    {
+      "name": "Matcha",
+      "type": "Green Tea",
+      "origin": "China/Japan",
+      "steep-time": 0,
+      "description": "Green tea stone ground into powder. Mix powder with water and drink.",
+      "ingredients": "Green tea (Camellia sinensis) leaves",
+      "caffeine-level": "high"
+    },
+    {
+      "name": "Chamomile",
+      "type": "Herbal Tea",
+      "origin": "Egypt",
+      "steep-time": 300000,
+      "description": "Herbal tea made from dried chamomile flowers.",
+      "ingredients": "Chamomile flowers",
+      "caffeine-level": "none"
+    },
+    {
+      "name": "Rooibos",
+      "type": "Herbal Tea",
+      "origin": "South Africa",
+      "steep-time": 300000,
+      "description": "Herbal tea made from the Rooibos bush.",
+      "ingredients": "Rooibos leaves",
+      "caffeine-level": "none"
+    },
+    {
+      "name": "Oolong",
+      "type": "Green Tea",
+      "origin": "China",
+      "steep-time": 300000,
+      "description": "Green tea oxidized by sun exposure. It is often flavored in different ways.",
+      "ingredients": "Green tea",
+      "caffeine-level": "medium"
+    }
+  ]
+}

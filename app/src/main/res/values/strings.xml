@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Teapot</string>
+    <string name="menu_action_favorite">Favorite</string>
+    <string name="menu_action_show_favorite">Show Favorites</string>
+    <string name="menu_action_show_list">Show List</string>
+    <string name="menu_action_add">Add Tea</string>
+    <string name="menu_action_save">Save</string>
+
+    <string name="tea_name">Tea Name</string>
+    <string name="tea_description">Description</string>
+    <string name="tea_origin">Tea Origin</string>
+    <string name="tea_ingredients">Ingredients</string>
+    <string name="caffeine_level">Caffeine Level</string>
+    <string name="toolbar_image">Toolbar image of a tea</string>
+
+    <string name="caffeine">Caffeine Level: %1$s</string>
+
+    <string name="black_tea">Black Tea</string>
+    <string name="green_tea">Green Tea</string>
+    <string name="herbal_tea">Herbal Tea</string>
+
+    <string name="caffeine_high">High</string>
+    <string name="caffeine_medium">Medium</string>
+    <string name="caffeine_low">Low</string>
+    <string name="caffeine_none">None</string>
+
+    <string name="more_info">MORE INFO</string>
+    <string name="recently_added">Recently Added</string>
+    <string name="add_tea">Add tea</string>
+
+</resources>

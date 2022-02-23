@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tea_types">
+        <item>@string/black_tea</item>
+        <item>@string/green_tea</item>
+        <item>@string/herbal_tea</item>
+    </string-array>
+    <string-array name="tea_caffeine_level">
+        <item>@string/caffeine_high</item>
+        <item>@string/caffeine_medium</item>
+        <item>@string/caffeine_low</item>
+        <item>@string/caffeine_none</item>
+    </string-array>
+
+</resources>
